@@ -1,0 +1,11 @@
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula03-escopo\bin\Debug\aula03-escopo.exe.config
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula03-escopo\bin\Debug\aula03-escopo.exe
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula03-escopo\bin\Debug\aula03-escopo.pdb
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula03-escopo\obj\Debug\aula03-escopo.csproj.AssemblyReference.cache
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula03-escopo\obj\Debug\aula03-escopo.csproj.SuggestedBindingRedirects.cache
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula03-escopo\obj\Debug\aula03_escopo.Form1.resources
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula03-escopo\obj\Debug\aula03_escopo.Properties.Resources.resources
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula03-escopo\obj\Debug\aula03-escopo.csproj.GenerateResource.cache
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula03-escopo\obj\Debug\aula03-escopo.csproj.CoreCompileInputs.cache
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula03-escopo\obj\Debug\aula03-escopo.exe
+C:\Users\renny\OneDrive\Documentos\visual-2022\aula03-escopo\obj\Debug\aula03-escopo.pdb
